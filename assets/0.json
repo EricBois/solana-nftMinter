@@ -1,0 +1,19 @@
+{
+  "name": "COOL_MONKEY_BRO",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "uGy6QmkyjDJXBYDorro7pNR1JYz4g4DwpeGKF4th1y3",
+        "share": 100
+      }
+    ]
+  }
+}

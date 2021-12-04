@@ -1,0 +1,19 @@
+{
+  "name": "COOL_DOGGY_BRO",
+  "symbol": "",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "uGy6QmkyjDJXBYDorro7pNR1JYz4g4DwpeGKF4th1y3",
+        "share": 100
+      }
+    ]
+  }
+}
